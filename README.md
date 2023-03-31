@@ -9,7 +9,7 @@ without giving them access to Backdrop's main module page.
 
 This module is not a port of the Drupal 7 Features module, but it is an attempt
 to implement the original vision of the Features module using Backdrop's
-configuration management as it's base.
+configuration management as its base.
 
 License
 -------
