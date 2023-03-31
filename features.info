@@ -1,0 +1,4 @@
+name = Features
+description = A module to bundle content and configuration as modules in an easy to use way.
+backdrop = 1.x
+type = module
